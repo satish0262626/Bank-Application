@@ -1,0 +1,10 @@
+# Ignore Visual Studio temporary files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.ncrunch*
+_ReSharper*/
+*.resharper
